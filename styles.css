@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+.block-heading{
+	color:#3b99e0;
+}
+.container{
+	background-color:lightgray;
+}
+	.col-lg-4{
+	background-color:#f7fbff;
+	border-top:2px solid #5ea4f3;
+}
+.summary{
+	padding:20px;
+}

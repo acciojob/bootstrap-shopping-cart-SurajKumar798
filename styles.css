@@ -4,10 +4,13 @@
 .container{
 	background-color:lightgray;
 }
-	.col-lg-4{
+.col-lg-4{
 	background-color:#f7fbff;
 	border-top:2px solid #5ea4f3;
 }
 .summary{
 	padding:20px;
+}
+.col-4 ul li{
+	list-style:none;
 }
